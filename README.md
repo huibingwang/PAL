@@ -4,7 +4,7 @@ This repository contains the code for our paper [Unsupervised Vehicle Re-identif
 ### 1.Train the reID model in source domain.
 We have provided the pretrained model [data/pretrained_model.mat]. You can click to Download and put the file in the data directory. The model is trained on VehicleID dataset. We also provide a file [models/net-epoch-50.mat] that you can Download and put in the model directory.
 
-|          ### File          |    ### Download    |
+|          **File**          |    **Download**    |
 
 | data/pretrained_model.mat  |    [Download](https://1drv.ms/u/s!AufmTFpX_6Tta9K0hmdOn4Ra_gY?e=uFVc8D)    |
 
