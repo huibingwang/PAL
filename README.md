@@ -2,7 +2,7 @@
 This repository contains the code for our paper [Unsupervised Vehicle Re-identification with Progressive Adaptation]).
 
 ### 1.Train the reID model in source domain.
-We have provided the pretrained model [data/pretrained_model.mat]. The model is trained on VehicleID dataset.
+We have provided the pretrained model [data/pretrained_model.mat]. You can click to [Download](https://1drv.ms/u/s!AufmTFpX_6Ttaq1UfQhf64VwuEM?e=zj3tBf) and put the file in the data directory. The model is trained on VehicleID dataset. We also provide a file [models/net-epoch-50.mat] that you can [Download](https://1drv.ms/u/s!AufmTFpX_6Tta9K0hmdOn4Ra_gY?e=uFVc8D) and put in the model directory.
 
 ### 2.Generate Pseudo Images (CycleGAN)
 The second stage is to generate fake images by Cycle.
