@@ -6,9 +6,7 @@ We have provided the pretrained model [data/pretrained_model.mat]. You can click
 
 |          **File**          |    **Download**                                       |
 |----------------------------|-------------------------------------------------------|
-
 | data/pretrained_model.mat  |    [Download](https://1drv.ms/u/s!AufmTFpX_6Tta9K0hmdOn4Ra_gY?e=uFVc8D)    |
-
 | models/net-epoch-50.mat    |    [Download](https://1drv.ms/u/s!AufmTFpX_6Ttaq1UfQhf64VwuEM?e=zj3tBf)    |
 
 ### 2.Generate Pseudo Images (CycleGAN)
